@@ -1,3 +1,22 @@
-.article {
-  
+.article1 {
+  color: blue;
+  font-family: sans-serif; 
+  font-size: : 100px ;
+}
+.article2 {
+  color: red;
+  font-family: comic; 
+  font-size: : 50px ;
+}
+
+.article3 {
+  color: green;
+  font-family: times; 
+  font-size: : 500px ;
+}
+
+.article4 {
+  color: purple;
+  font-family: arial; 
+  font-size: : 200px ;
 }
